@@ -1,49 +1,50 @@
-# Hi there 👋, I'm Pranay Kumar
+# Hi there 👋 I'm Pranay Kumar
 
-**Generative AI & Full-Stack Developer** focused on building production-ready AI workflows and intelligent web products.  
-I work across **LLM integrations, NLP/CV systems, and modern frontend engineering**.
+**Generative AI & Full-Stack Developer** building practical AI products with strong UX and performance focus.
 
-- 🔭 Currently building AI-powered content automation pipelines (script → image → video)
-- ⚙️ Working with OpenAI, Google Gemini, and Replicate APIs
-- 🌱 Interested in AI/ML Engineer and Generative AI Engineer roles
-- 📍 Delhi, India
+📍 Delhi, India  
+📧 kumar.pranay0904@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pranay-kumar-3725a52b6/) • [GitHub](https://github.com/pranaykumar092)
 
-## 💡 What I Work On
-- LLM-powered workflow automation for creative production
-- NLP and OCR-based document intelligence systems
-- Performance-focused React/Next.js frontend engineering
+---
 
-## 🛠️ Core Tech
-**Languages:** Python, JavaScript, SQL  
-**AI/ML:** OpenAI API, Gemini API, Replicate API, Prompt Engineering, NLP, Computer Vision  
-**Frameworks:** React, Next.js, Flask, Node.js  
-**Data & Tools:** Pandas, NumPy, spaCy, OpenCV, Git, Docker, Postman  
-**Cloud/DB:** AWS (EC2, S3, IAM, RDS), MySQL, MongoDB
+## 🚀 About Me
+- Building **AI-powered content automation workflows** (script → image → video)
+- Hands-on with **OpenAI, Google Gemini, and Replicate APIs**
+- Strong base in **Python, React/Next.js, Flask, NLP, and Computer Vision**
+- Open to **AI/ML Engineer** and **Generative AI Engineer** roles
 
-## 🚀 Selected Projects
+## 🛠️ Tech Snapshot
+- **Languages:** Python, JavaScript, SQL
+- **AI/ML:** LLM Integration, Prompt Engineering, NLP, CV, OCR
+- **Frameworks:** React, Next.js, Flask, Node.js
+- **Tools:** Git, Docker, Postman, REST APIs
+- **Cloud/DB:** AWS (EC2, S3, IAM, RDS), MySQL, MongoDB
+
+## 📌 Featured Projects
 
 ### [Text-Summarization-Tool](https://github.com/pranaykumar092/Text-Summarization-Tool)
-NLP-powered summarization app using TF-IDF/TextRank + OCR + NER for faster document understanding.  
-- Reduced review time for 10-page documents by ~70%  
-- Integrated OCR pipeline with ~92% extraction accuracy
+NLP + OCR summarization system using TF-IDF/TextRank and spaCy.
+- ~70% reduction in review time for long documents
+- ~92% OCR extraction accuracy
 
 ### [handwriting-reco](https://github.com/pranaykumar092/handwriting-reco)
-Handwriting-to-text web app using OpenCV + EasyOCR with Flask backend.  
-- Achieved ~92–95% OCR accuracy  
-- Average processing time: ~1.5–3 seconds/image
+Handwriting-to-text web app with OpenCV + EasyOCR + Flask.
+- ~92–95% OCR accuracy
+- ~1.5–3s average processing time per image
 
 ### [Reelence_Webpage](https://github.com/pranaykumar092/Reelence_Webpage)
-Frontend work aligned with production website optimization and responsiveness.  
-- Improved loading performance and cross-device UX  
-- Worked on real-world UI structure and maintainability improvements
+Production-oriented frontend work with performance and responsiveness improvements.
+- Improved load speed and UX consistency across devices
+- Better structure/maintainability for real-world deployment
 
 ## 📈 Current Focus
-Building practical GenAI systems that combine:
+Building **production-ready GenAI systems** that combine:
 - Reliable API orchestration
-- Usable product UX
-- Real performance improvements in production
+- Fast and intuitive user experience
+- Measurable performance improvements
 
-## 🌐 Connect
-- [LinkedIn](https://www.linkedin.com/in/pranay-kumar-3725a52b6/)
-- [GitHub](https://github.com/pranaykumar092)
-- 📧 kumar.pranay0904@gmail.com
+---
+
+## 🤝 Let’s Connect
+If you’re building in **GenAI / AI products**, I’d love to collaborate.
